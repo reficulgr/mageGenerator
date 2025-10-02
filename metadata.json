@@ -1,0 +1,5 @@
+{
+  "name": "Mage: The Awakening 2E Character Generator",
+  "description": "A web application to assist in creating characters for the Mage: The Awakening 2nd Edition tabletop role-playing game. It guides users through the core creation steps and uses AI to generate compelling backstories, aspirations, and character portraits.",
+  "requestFramePermissions": []
+}
